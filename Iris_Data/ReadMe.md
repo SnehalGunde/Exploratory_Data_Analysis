@@ -1,3 +1,5 @@
+EDA - IRIS_Data
+
 The Iris Dataset includes 3 Iris Species with 50 samples each (150 rows) and is composed of 6 columns :
 
 the ID column 4 columns of measures on Sepal and Petal : SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm the column containing the labels : Iris-setosa, Iris-versicolor, Iris-virginica
